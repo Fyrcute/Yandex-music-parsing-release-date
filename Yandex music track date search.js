@@ -102,7 +102,7 @@
 
     titleContainer.appendChild(dateBadge);
 
-    const accessToken = 'R_qLLYTgPhAO9rnJw1F-xKsQ9sqOY0y-Xo6v3z6kGVIN7FR3fi7J3XD7spsCzNQs';
+    const accessToken = 'ВАШ ТОКЕН';
 
     const searchArtist = albumArtistName || trackArtist || '';
     const query = encodeURIComponent(`${title} ${searchArtist}`);
